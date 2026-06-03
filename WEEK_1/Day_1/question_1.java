@@ -1,7 +1,7 @@
 package WEEK_1.Day_1;
 import java.util.Scanner;
 
-public class Day_1 {
+public class question_1 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
