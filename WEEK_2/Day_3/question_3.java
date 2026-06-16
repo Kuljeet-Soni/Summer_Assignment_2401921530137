@@ -33,6 +33,7 @@ public class question_3 {
         int lastLPS= lps[n-1];
         //CHECK IF STRING IS MADE BY REPEATING A SUBSTRING
         return lastLPS >0 && n%(n-lastLPS) ==0; 
+            
         // (N-LASTLPS) --> REPEATED SUBSTRING KI LENGTH FIND KREGA!!!
         // % --> CHECK KREGA WOH PART PURI STRING KO BNA SKTA HAI YA NHI
     }
